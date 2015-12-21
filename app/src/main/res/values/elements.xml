@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="h">
+        <item name="name">Hydrogen</item>
+        <item name="symbol">H</item>
+    </string-array>
+    <string-array name="he">
+        <item name="name">Helium</item>
+        <item name="symbol">He</item>
+    </string-array>
+    <string-array name="li">
+        <item name="name">Lithium</item>
+        <item name="symbol">Li</item>
+    </string-array>
+    <string-array name="be">
+        <item name="name">Beryllium</item>
+        <item name="symbol">Be</item>
+    </string-array>
+    <string-array name="b">
+        <item name="name">Boron</item>
+        <item name="symbol">B</item>
+    </string-array>
+    <string-array name="c">
+        <item name="name">Carbon</item>
+        <item name="symbol">C</item>
+    </string-array>
+    <string-array name="n">
+        <item name="name">Nitrogen</item>
+        <item name="symbol">N</item>
+    </string-array>
+    <string-array name="o">
+        <item name="name">Oxygen</item>
+        <item name="symbol">O</item>
+    </string-array>
+    <string-array name="f">
+        <item name="name">Fluorine</item>
+        <item name="symbol">F</item>
+    </string-array>
+    <string-array name="ne">
+        <item name="name">Neon</item>
+        <item name="symbol">Ne</item>
+    </string-array>
+
+    <!-- ELEMENT LIST -->
+    <array name="elements">
+        <item>@array/h</item>
+        <item>@array/he</item>
+        <item>@array/li</item>
+        <item>@array/be</item>
+        <item>@array/b</item>
+        <item>@array/c</item>
+        <item>@array/n</item>
+        <item>@array/o</item>
+        <item>@array/f</item>
+        <item>@array/ne</item>
+    </array>
+</resources>
